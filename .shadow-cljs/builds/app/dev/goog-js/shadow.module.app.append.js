@@ -1,0 +1,1 @@
+["^ ","~:resource-id",["~:shadow.build.modules/append","~:app"],"~:source","\nmaybe_sheep.core.init();\nshadow.cljs.devtools.client.browser.module_loaded('app');\n","~:js","\nmaybe_sheep.core.init();\nshadow.cljs.devtools.client.browser.module_loaded('app');\n"]
